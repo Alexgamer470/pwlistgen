@@ -31,8 +31,8 @@ Or if want to save it in a different *(already existing)* path:
 py pwlistgen.py > ../github/pwlist.txt
 ```
 ## Generate
-Last but not least type in the length of your password, hit enter, wait and it will create a password list for the entered length in the path/file you specified.\
+Last but not least type in the **length of your password**, hit **enter**, **wait** and it will create a password list for the entered length in the path/file you specified.\
 \
-PS: I don't recommend entering a larger number than 10, since the 8-characters password list is already 1 GB large and does take some time to create.
+PS: I don't recommend entering a larger number than 10 – except you know exacly what you're doing – since the 8-characters password list is already 1 GB large and does take some time to create.
 
 PPS: If `py` doesn't work in your cmd try to type in `python` instead.
